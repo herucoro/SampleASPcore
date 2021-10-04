@@ -8,5 +8,6 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.1.5"/>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.0-rc.1.21452.10"/>
     <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="6.0.0-rc.1"/>
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="6.0.0-rc.1.21451.13"/>
   </ItemGroup>
 </Project>
